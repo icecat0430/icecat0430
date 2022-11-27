@@ -32,9 +32,9 @@
 
 <h2>Activities</h2>
 
-<h3>Cloud Club 2기 멤버</h3>
+<h3>Cloud Club (2기 멤버)</h3>
 
-홈페이지 : https://cloudclub.oopy.io/ <br>
+Cloud Club homepage : https://cloudclub.oopy.io/ <br>
 
 <h2>Stats</h2>
 

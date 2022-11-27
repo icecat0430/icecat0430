@@ -26,8 +26,8 @@
 <a><img src="https://img.shields.io/badge/Argo-EF7B4D?style=flat&logo=Argo&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Istio-466BB0?style=flat&logo=Istio&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=Apache%20Kafka&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=iOS&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>
 
 <h2>Activities</h2>

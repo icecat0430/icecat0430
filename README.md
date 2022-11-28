@@ -35,6 +35,7 @@
 <h3>Cloud Club (2기 멤버)</h3>
 
 Cloud Club homepage : https://cloudclub.oopy.io/ <br>
+Cloud Club blog : https://medium.com/@cloudclub
 
 <h2>Stats</h2>
 
